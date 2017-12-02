@@ -1,0 +1,4 @@
+lib
+proto*
+venv
+*.pyc
