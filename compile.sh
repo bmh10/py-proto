@@ -1,3 +1,3 @@
 #!/bin/bash
 
-protoc/bin/protoc --python_out=. *.proto
+protoc --python_out=. *.proto
