@@ -2,3 +2,4 @@ lib
 proto*
 venv
 *.pyc
+*.swp
